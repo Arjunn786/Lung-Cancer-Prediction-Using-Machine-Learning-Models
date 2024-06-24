@@ -1,0 +1,2 @@
+# Lung-Cancer-Prediction-Using-Machine-Learning-Models
+This project predicts lung cancer using machine learning models: SVM, Logistic Regression, KNN, AdaBoost, and Random Forest. It covers data preprocessing, model training, evaluation, and accuracy comparison. Includes Jupyter notebooks, trained models, and visualizations. Clone the repo, install dependencies, and contribute to improve accuracy.
